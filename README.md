@@ -14,7 +14,7 @@ composer require ragingdave/flysystem-sftp-laravel
 
 Add the service provider to `config/app.php`:
 ```PHP
-RagingDave\Filesystem\Sftp\ServiceProvider::class,
+RagingDave\Filesystem\Sftp\SftpServiceProvider::class,
 ```
 
 ## Configuration
