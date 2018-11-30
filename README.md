@@ -2,6 +2,9 @@
 
 This package provides a service provider to add the sftp flysystem-driver to Laravel Storage mechanisms.
 
+## NOTE
+This package is no longer needed in Laravel Version 5.6 and up. See the Laravel Docs for details. https://laravel.com/docs/5.6/filesystem#driver-prerequisites
+
 ## Installation
 
 In order to install this package, simply require the package
